@@ -1,0 +1,9 @@
+.lines {
+    animation: ;
+}
+
+@keyframes choose {
+    50% {
+        margin-top: 3%;
+    }
+}
